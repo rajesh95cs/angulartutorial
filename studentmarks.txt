@@ -1,0 +1,103 @@
+[
+   {
+      "Name" : "Manu",
+      "RollNo" : 25,
+      "physics" : 80,
+      "chemistry" : 90,
+      "maths" : 50,
+      "computer science" : 100,
+      "english" : 89
+   },
+   
+   {
+      "Name" : "sudhi",
+      "RollNo" : 26,
+      "physics" : 90,
+      "chemistry" : 80,
+      "maths" : 56,
+      "computer science" : 66,
+      "english" : 43
+   },
+
+   {
+      "Name" : "james",
+      "RollNo" : 27,
+      "physics" : 30,
+      "chemistry" : 43,
+      "maths" : 44,
+      "computer science" : 34,
+      "english" : 87
+   },
+
+   {
+      "Name" : "jack",
+      "RollNo" : 28,
+      "physics" : 34,
+      "chemistry" : 76,
+      "maths" : 46,
+      "computer science" : 45,
+      "english" : 45
+   },
+
+   {
+      "Name" : Manu,
+      "RollNo" : 25,
+      "physics" : 80,
+      "chemistry" : 90,
+      "maths" : 50,
+      "computer science" : 100,
+      "english" : 89
+   },
+
+   {
+      "Name" : "mathayi",
+      "RollNo" : 29,
+      "physics" : 35,
+      "chemistry" : 65,
+      "maths" : 47,
+      "computer science" : 89,
+      "english" : 54
+   },
+
+   {
+      "Name" : "sasi",
+      "RollNo" : 30,
+      "physics" : 65,
+      "chemistry" : 23,
+      "maths" : 65,
+      "computer science" : 45,
+      "english" : 67
+   },
+ 
+   {
+      "Name" : "sheela",
+      "RollNo" : 31,
+      "physics" : 42,
+      "chemistry" : 87,
+      "maths" : 65,
+      "computer science" : 87,
+      "english" : 56
+   },
+
+   {
+      "Name" : "manu",
+      "RollNo" : 32,
+      "physics" : 23,
+      "chemistry" : 32,
+      "maths" : 12,
+      "computer science" : 98,
+      "english" : 67
+   },
+
+   {
+      "Name" : "sughu",
+      "RollNo" : 33,
+      "physics" : 80,
+      "chemistry" : 95,
+      "maths" : 55,
+      "computer science" : 32,
+      "english" : 76
+   }
+	
+   
+]
